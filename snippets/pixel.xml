@@ -33,7 +33,7 @@
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
 
   <!-- Framework repos -->
-  <project path="frameworks/av" name="frameworks_av" remote="pixel" />
+  <!-- <project path="frameworks/av" name="frameworks_av" remote="pixel" /> -->
   <project path="frameworks/base" name="frameworks_base" remote="pixel" />
   <project path="frameworks/native" name="frameworks_native" remote="pixel" />
   <project path="frameworks/opt/net/voip" name="frameworks_opt_net_voip" remote="pixel" />

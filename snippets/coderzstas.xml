@@ -9,6 +9,8 @@
           fetch="https://github.com/xiaomi-sdm660" />
 
     <!-- Mine :) -->
+	<project path="frameworks/av" name="frameworks_av" remote="coderzstas" />
+
 	<project name="android_device_xiaomi_jasmine_sprout" path="device/xiaomi/jasmine_sprout" remote="coderzstas" />
 	<project name="android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="coderzstas" />
 
